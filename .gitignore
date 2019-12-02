@@ -2,3 +2,4 @@
 server/.env-node
 server/node_modules
 server/moscou-journal-7de3cfc0b535.json
+node_modules/
